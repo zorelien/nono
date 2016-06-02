@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Title: nono
-Implementation-Version: 0.0.1-SNAPSHOT
-Built-By: CER3100444
-Implementation-Vendor-Id: fr.auri
-Created-By: IntelliJ IDEA
-Build-Jdk: 1.8.0_05
-Main-Class: ${start-class}
-
